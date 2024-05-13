@@ -53,7 +53,21 @@
 
 ![Kein Pyi Si's Graph](https://github-readme-activity-graph.vercel.app/graph?username=keinpyisi&custom_title=Kein%20Pyi%20Si's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<h3 align="left">Achievements:</h3>
+<div align="center">
+  
+[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
 
-<br><br><br>
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<div align="center">
+    Made with ❤️ by <a href="[https://deri.my.id](https://keinpyisi.github.io/)" target="_blank">Kein Pyi Si</a>
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
