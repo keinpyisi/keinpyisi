@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in **AI Developments.....**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **CodeIgniter3**
 
 - 💞️ I’m looking to collaborate on **.....**
 
