@@ -54,8 +54,7 @@
 ![Kein Pyi Si's Graph](https://github-readme-activity-graph.vercel.app/graph?username=keinpyisi&custom_title=Kein%20Pyi%20Si's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <div align="center">
-  
-[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
+
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
