@@ -25,9 +25,9 @@
 
 I am a **Laravel / PHP-focused Software Programmer and Lead Backend Engineer** with experience in backend development, REST API design, database design, system optimization, external service integration, and SaaS platform development.
 
-My main strength is building and improving **business systems, web applications, APIs, multi-tenant SaaS platforms, and backend architectures**. I also work with **Java, Python, JavaScript, SQL, AWS, Docker, and AI APIs**.
+My main strength is building and improving **business systems, web applications, APIs, multi-tenant SaaS platforms, and backend architectures**.
 
-I can support projects from **basic design, detailed design, implementation, testing, release, maintenance, performance improvement, security improvement, and production troubleshooting**.
+I also work with **Java, Python, JavaScript, SQL, AWS, Docker, and AI APIs**.
 
 ---
 
@@ -177,28 +177,13 @@ Backend Engineering
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Current Technical Direction
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keinpyisi&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keinpyisi&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keinpyisi&theme=tokyonight&utcOffset=9" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keinpyisi&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keinpyisi&theme=tokyonight" alt="Most Commit Language" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keinpyisi&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://img.shields.io/badge/Focus-Laravel%20Backend-F85D7F?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-SaaS%20%2F%20Multi--Tenant-7F3FBF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-API%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
