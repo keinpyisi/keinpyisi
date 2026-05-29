@@ -13,18 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/keinpyisi">
-    <img src="https://img.shields.io/badge/Backend-Laravel%20%2F%20PHP-F85D7F?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel PHP Backend" />
-  </a>
-  <a href="https://github.com/keinpyisi">
-    <img src="https://img.shields.io/badge/SaaS-Multi--Tenant%20Architecture-7F3FBF?style=for-the-badge&logo=icloud&logoColor=white" alt="SaaS Architecture" />
-  </a>
-  <a href="https://github.com/keinpyisi">
-    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
-  </a>
-  <a href="https://github.com/keinpyisi">
-    <img src="https://img.shields.io/badge/Japanese-JLPT%20N1-0D1117?style=for-the-badge&logo=googletranslate&logoColor=white" alt="JLPT N1" />
-  </a>
+  <img src="https://img.shields.io/badge/Backend-Laravel%20%2F%20PHP-F85D7F?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel PHP Backend" />
+  <img src="https://img.shields.io/badge/SaaS-Multi--Tenant%20Architecture-7F3FBF?style=for-the-badge&logo=icloud&logoColor=white" alt="SaaS Architecture" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/Japanese-JLPT%20N1-0D1117?style=for-the-badge&logo=googletranslate&logoColor=white" alt="JLPT N1" />
 </p>
 
 ---
@@ -73,6 +65,7 @@ I can support projects from **basic design, detailed design, implementation, tes
 
 ## 🧠 Professional Focus
 
+```txt
 Backend Engineering
 ├── Laravel / PHP Application Development
 ├── REST API Design & Integration
@@ -83,6 +76,7 @@ Backend Engineering
 ├── Docker / CI/CD / Deployment
 ├── Production Monitoring & Debugging
 └── AI API Integration & Workflow Automation
+```
 
 ---
 
@@ -90,10 +84,6 @@ Backend Engineering
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,python,java,js,html,css,mysql,postgres,sqlite,nodejs,aws,docker,git,github,linux,nginx,postman,vscode,bash&theme=dark" alt="Languages and Tools" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-denvercoder1.vercel.app/api/top-langs/?username=keinpyisi&langs_count=10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -190,15 +180,17 @@ Backend Engineering
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keinpyisi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keinpyisi&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keinpyisi&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keinpyisi&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keinpyisi&theme=tokyonight&utcOffset=9" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keinpyisi&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keinpyisi&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ---
