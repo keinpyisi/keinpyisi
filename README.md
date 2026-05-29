@@ -93,7 +93,7 @@ Backend Engineering
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keinpyisi&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-denvercoder1.vercel.app/api/top-langs/?username=keinpyisi&langs_count=10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
