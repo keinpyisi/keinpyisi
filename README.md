@@ -1,6 +1,5 @@
-````md
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" alt="Welcome GIF" />
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="180" alt="Welcome GIF" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kein Pyi Si</h1>
@@ -42,36 +41,38 @@ I can support projects from **basic design, detailed design, implementation, tes
 
 ## 🎓 Education & Certifications
 
-- 🎓 **European International University, Paris**
-  - IT & Data Sciences Top-up
-  - Graduated: **March 2026**
+* 🎓 **European International University, Paris**
 
-- 📜 **ITPEC Fundamental Information Technology Engineer**
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🇯🇵 **JLPT N1**
+  * IT & Data Sciences Top-up
+  * Graduated: **March 2026**
+
+* 📜 **ITPEC Fundamental Information Technology Engineer**
+
+* ☁️ **AWS Certified Cloud Practitioner**
+
+* 🇯🇵 **JLPT N1**
 
 ---
 
 ## 🚀 Core Strengths
 
-- Backend development with **Laravel / PHP**
-- RESTful API design and implementation
-- SaaS and multi-tenant architecture
-- Database design, indexing, query optimization
-- Authentication, authorization, OAuth, Laravel Sanctum
-- AWS infrastructure and cloud service integration
-- Docker-based development and deployment
-- CI/CD workflow support
-- Production incident investigation and debugging
-- AI API integration using OpenAI, Claude, and Gemini APIs
-- AI chatbot, NLP, workflow automation, and data processing automation
-- Japanese business communication, requirement understanding, progress sharing, and team collaboration
+* Backend development with **Laravel / PHP**
+* RESTful API design and implementation
+* SaaS and multi-tenant architecture
+* Database design, indexing, and query optimization
+* Authentication, authorization, OAuth, and Laravel Sanctum
+* AWS infrastructure and cloud service integration
+* Docker-based development and deployment
+* CI/CD workflow support
+* Production incident investigation and debugging
+* AI API integration using OpenAI, Claude, and Gemini APIs
+* AI chatbot, NLP, workflow automation, and data processing automation
+* Japanese business communication, requirement understanding, progress sharing, and team collaboration
 
 ---
 
 ## 🧠 Professional Focus
 
-```txt
 Backend Engineering
 ├── Laravel / PHP Application Development
 ├── REST API Design & Integration
@@ -82,7 +83,6 @@ Backend Engineering
 ├── Docker / CI/CD / Deployment
 ├── Production Monitoring & Debugging
 └── AI API Integration & Workflow Automation
-````
 
 ---
 
@@ -239,4 +239,3 @@ Backend Engineering
   Made with ❤️ by 
   <a href="https://keinpyisi.github.io/" target="_blank">Kein Pyi Si</a>
 </p>
-```
