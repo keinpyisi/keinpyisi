@@ -1,72 +1,271 @@
-<img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" alt="Welcome GIF" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Kein Pyi Si</h1>
-<h3 align="center">A Hobbyist Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keinpyisi&label=Profile%20views&color=0e75b6&style=flat" alt="keinpyisi" /> </p>
+<h3 align="center">
+  Lead Backend Engineer | Laravel / PHP Developer | SaaS & AI Integration Engineer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keinpyisi&no-bg=true&no-frame=true&theme=dark_lover&title=MultiLanguage,Experience,Repositories,Followers,Issues,PullRequest" alt="keinpyisi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/keinpyishi20903" target="blank"><img src="https://img.shields.io/twitter/follow/keinpyishi20903?logo=twitter&style=for-the-badge" alt="keinpyishi20903" /></a> </p>
-
-- 👀 I’m interested in **AI Developments.....**
-
-- 🌱 I’m currently learning **CodeIgniter3**
-
-- 💞️ I’m looking to collaborate on **.....**
-
-- 💬 Ask me about **Java,Python,AI,Android[JAVA],PHP,Laravel**
-
-- 📫 How to reach me **keinpyisi@gmail.com**
-
-- ⚡ Fun fact **Biggest Hatsune Miku Fan from Myanmar**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/keinpyishi20903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keinpyishi20903" height="30" width="40" /></a>
-<a href="https://discord.gg/Krul#6378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Krul#6378" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keinpyisi&label=Profile%20Views&color=7F3FBF&style=flat" alt="Profile Views" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/764/304/png-clipart-laravel-black-logo-tech-companies-thumbnail.png" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-
 
 <p align="center">
   <a href="https://github.com/keinpyisi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=keinpyisi&theme=radical&border=7F3FBF&background=0D1117" alt="Kein Pyi Si's GitHub streak"/>
+    <img src="https://img.shields.io/badge/Backend-Laravel%20%2F%20PHP-F85D7F?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel PHP Backend" />
+  </a>
+  <a href="https://github.com/keinpyisi">
+    <img src="https://img.shields.io/badge/SaaS-Multi--Tenant%20Architecture-7F3FBF?style=for-the-badge&logo=icloud&logoColor=white" alt="SaaS Architecture" />
+  </a>
+  <a href="https://github.com/keinpyisi">
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
+  </a>
+  <a href="https://github.com/keinpyisi">
+    <img src="https://img.shields.io/badge/Japanese-JLPT%20N1-0D1117?style=for-the-badge&logo=googletranslate&logoColor=white" alt="JLPT N1" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am a **Laravel / PHP-focused Software Programmer and Lead Backend Engineer** with experience in backend development, REST API design, database design, system optimization, external service integration, and SaaS platform development.
+
+My main strength is building and improving **business systems, web applications, APIs, multi-tenant SaaS platforms, and backend architectures**. I also work with **Java, Python, JavaScript, SQL, AWS, Docker, and AI APIs**.
+
+I can support projects from **basic design, detailed design, implementation, testing, release, maintenance, performance improvement, security improvement, and production troubleshooting**.
+
+---
+
+## 🎓 Education & Certifications
+
+* 🎓 **European International University, Paris**
+
+  * IT & Data Sciences Top-up
+  * Graduated: **March 2026**
+
+* 📜 **ITPEC Fundamental Information Technology Engineer**
+
+* ☁️ **AWS Certified Cloud Practitioner**
+
+* 🇯🇵 **JLPT N1**
+
+---
+
+## 🚀 Core Strengths
+
+* Backend development with **Laravel / PHP**
+* RESTful API design and implementation
+* SaaS and multi-tenant architecture
+* Database design, indexing, query optimization
+* Authentication, authorization, OAuth, Laravel Sanctum
+* AWS infrastructure and cloud service integration
+* Docker-based development and deployment
+* CI/CD workflow support
+* Production incident investigation and debugging
+* AI API integration using OpenAI, Claude, Gemini APIs
+* AI chatbot, NLP, workflow automation, and data processing automation
+* Japanese business communication, requirement understanding, progress sharing, and team collaboration
+
+---
+
+## 🧠 Professional Focus
+
+```txt
+Backend Engineering
+├── Laravel / PHP Application Development
+├── REST API Design & Integration
+├── Multi-Tenant SaaS Architecture
+├── Database Design & Performance Optimization
+├── Authentication / Authorization
+├── AWS Cloud Integration
+├── Docker / CI/CD / Deployment
+├── Production Monitoring & Debugging
+└── AI API Integration & Workflow Automation
+```
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,java,js,html,css,mysql,postgres,sqlite,nodejs,aws,docker,git,github,linux,nginx,postman,vscode,bash&theme=dark" alt="Languages and Tools" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/keinpyisi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keinpyisi&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+## 💼 Experience Highlights
+
+### Lead Backend Engineer / Software Programmer
+
+* Designed and implemented Laravel / PHP-based business systems
+* Built REST APIs for system-to-system integration
+* Designed scalable backend architecture for SaaS platforms
+* Implemented multi-tenant architecture from scratch
+* Designed tenant separation strategies at database, schema, and application level
+* Developed tenant-aware routing and middleware
+* Built secure data separation between tenants
+* Implemented tenant lifecycle management
+* Designed feature flag systems and role-based feature access control
+* Built secure file upload architecture
+* Supported payment system and subscription-related backend features
+* Improved backend performance through database tuning and query optimization
+* Handled code review, quality control, security improvement, and production troubleshooting
+
+### Software Engineer
+
+* Worked with Java, Python, JavaScript, PHP, and SQL
+* Implemented authenticated REST APIs using OAuth-related flows
+* Supported microservice architecture adoption
+* Created automation scripts to improve development efficiency
+* Supported code review, development standardization, and team development
+* Worked on data analysis, processing, and visualization tasks
+
+### Backend Developer
+
+* Implemented backend API integration features
+* Developed AJAX / JSON-based asynchronous communication
+* Connected frontend and backend data flows
+* Improved Laravel Sanctum-based authentication and authorization
+* Designed Redis cache and queue strategies
+* Optimized sessions and query performance
+* Investigated system bottlenecks and performance issues
+
+---
+
+## ☁️ Cloud / Infrastructure Experience
+
+* Amazon EC2
+* Amazon S3
+* Amazon SES
+* AWS IAM
+* Amazon CloudWatch
+* AWS CLI
+* Linux server architecture
+* Nginx production configuration
+* Apache
+* Docker-based deployment
+* Git-based deployment
+* CI/CD workflow
+* Log monitoring and debugging
+* Production incident response
+
+---
+
+## 🗄️ Database Experience
+
+* MySQL
+* PostgreSQL
+* SQLite
+* Relational database design
+* Large-scale schema design
+* Query optimization
+* Index design
+* Data separation strategy
+* Migration version management
+* Large-scale data modeling
+* Multi-tenant database architecture
+
+---
+
+## 🤖 AI / Automation Experience
+
+* OpenAI API integration
+* Claude API integration
+* Gemini API integration
+* AI chatbot development
+* NLP feature implementation
+* Workflow automation
+* Data processing automation
+* Real-time notification systems
+* Bot integration
+* Scheduling automation
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/keinpyisi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=keinpyisi&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/keinpyisi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keinpyisi&theme=radical" alt="Kein Pyi Si's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keinpyisi&theme=radical" alt="GitHub Profile Summary" />
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/keinpyisi"><img alt="Kein Pyi Si's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=keinpyisi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/keinpyisi"><img alt="Kein Pyi Si's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=keinpyisi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<p align="center">
+  <a href="https://github.com/keinpyisi">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=keinpyisi&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="192px" width="49%" />
+  </a>
 
+  <a href="https://github.com/keinpyisi">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keinpyisi&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" height="192px" width="49%" />
+  </a>
+</p>
 
-![Kein Pyi Si's Graph](https://github-readme-activity-graph.vercel.app/graph?username=keinpyisi&custom_title=Kein%20Pyi%20Si's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+---
 
-<div align="center">
+## 📈 Activity Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keinpyisi&custom_title=Kein%20Pyi%20Si's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=F85D7F&point=F8D866&area_color=7F3FBF&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+---
 
-![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+## 🌐 Connect with Me
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+<p align="center">
+  <a href="mailto:keinpyisi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-keinpyisi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/keinpyishi20903" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@keinpyishi20903-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/keinpyisi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-keinpyisi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<div align="center">
-    Made with ❤️ by <a href="[https://deri.my.id](https://keinpyisi.github.io/)" target="_blank">Kein Pyi Si</a>
-</div>
+---
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+## ⚡ Fun Fact
+
+<p align="center">
+  Biggest Hatsune Miku Fan from Myanmar 🎵
+</p>
+
+---
+
+<p align="center">
+  <img src="/assets/images/horizontal-divider-gradient.gif" alt="Divider" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+<p align="center">
+  <img src="/assets/images/horizontal-divider-gradient.gif" alt="Divider" />
+</p>
+
+<p align="center">
+  Made with ❤️ by 
+  <a href="https://keinpyisi.github.io/" target="_blank">Kein Pyi Si</a>
+</p>
+
+<p align="center">
+  <img src="/assets/images/horizontal-divider-gradient.gif" alt="Divider" />
+</p>
