@@ -1,3 +1,4 @@
+````md
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" alt="Welcome GIF" />
 </p>
@@ -41,33 +42,30 @@ I can support projects from **basic design, detailed design, implementation, tes
 
 ## 🎓 Education & Certifications
 
-* 🎓 **European International University, Paris**
+- 🎓 **European International University, Paris**
+  - IT & Data Sciences Top-up
+  - Graduated: **March 2026**
 
-  * IT & Data Sciences Top-up
-  * Graduated: **March 2026**
-
-* 📜 **ITPEC Fundamental Information Technology Engineer**
-
-* ☁️ **AWS Certified Cloud Practitioner**
-
-* 🇯🇵 **JLPT N1**
+- 📜 **ITPEC Fundamental Information Technology Engineer**
+- ☁️ **AWS Certified Cloud Practitioner**
+- 🇯🇵 **JLPT N1**
 
 ---
 
 ## 🚀 Core Strengths
 
-* Backend development with **Laravel / PHP**
-* RESTful API design and implementation
-* SaaS and multi-tenant architecture
-* Database design, indexing, query optimization
-* Authentication, authorization, OAuth, Laravel Sanctum
-* AWS infrastructure and cloud service integration
-* Docker-based development and deployment
-* CI/CD workflow support
-* Production incident investigation and debugging
-* AI API integration using OpenAI, Claude, Gemini APIs
-* AI chatbot, NLP, workflow automation, and data processing automation
-* Japanese business communication, requirement understanding, progress sharing, and team collaboration
+- Backend development with **Laravel / PHP**
+- RESTful API design and implementation
+- SaaS and multi-tenant architecture
+- Database design, indexing, query optimization
+- Authentication, authorization, OAuth, Laravel Sanctum
+- AWS infrastructure and cloud service integration
+- Docker-based development and deployment
+- CI/CD workflow support
+- Production incident investigation and debugging
+- AI API integration using OpenAI, Claude, and Gemini APIs
+- AI chatbot, NLP, workflow automation, and data processing automation
+- Japanese business communication, requirement understanding, progress sharing, and team collaboration
 
 ---
 
@@ -84,7 +82,7 @@ Backend Engineering
 ├── Docker / CI/CD / Deployment
 ├── Production Monitoring & Debugging
 └── AI API Integration & Workflow Automation
-```
+````
 
 ---
 
@@ -95,9 +93,7 @@ Backend Engineering
 </p>
 
 <p align="center">
-  <a href="https://github.com/keinpyisi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keinpyisi&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keinpyisi&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -194,25 +190,15 @@ Backend Engineering
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/keinpyisi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=keinpyisi&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=keinpyisi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/keinpyisi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keinpyisi&theme=radical" alt="GitHub Profile Summary" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keinpyisi&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/keinpyisi">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=keinpyisi&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="192px" width="49%" />
-  </a>
-
-  <a href="https://github.com/keinpyisi">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keinpyisi&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" height="192px" width="49%" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keinpyisi&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 ---
@@ -220,7 +206,7 @@ Backend Engineering
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keinpyisi&custom_title=Kein%20Pyi%20Si's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=F85D7F&point=F8D866&area_color=7F3FBF&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keinpyisi&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -250,22 +236,7 @@ Backend Engineering
 ---
 
 <p align="center">
-  <img src="/assets/images/horizontal-divider-gradient.gif" alt="Divider" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" alt="GitHub Snake Animation" />
-</p>
-
-<p align="center">
-  <img src="/assets/images/horizontal-divider-gradient.gif" alt="Divider" />
-</p>
-
-<p align="center">
   Made with ❤️ by 
   <a href="https://keinpyisi.github.io/" target="_blank">Kein Pyi Si</a>
 </p>
-
-<p align="center">
-  <img src="/assets/images/horizontal-divider-gradient.gif" alt="Divider" />
-</p>
+```
